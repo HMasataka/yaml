@@ -1,0 +1,6 @@
+- func: "value"
+  args: "f"
+- func: "value"
+  args: {
+    "key":"value"
+  }
